@@ -21,3 +21,4 @@ Listening on localhost:9000
 
 ## Klient
 1. W pierwszej kolejności przechodzimy do folderu client, w którym musimy zainstalować zależności. Uruchamiamy konsolę, w której wpisujemy poniższe polecenie: `npm install`
+2. Transpilujemy i uruchamiamy serwer hostujący aplikację opartą o angular poleceniem: `ng serve`
